@@ -1,5 +1,5 @@
 ---
-title: "My 100 Days of Code Logger"
+title: "My 100 Days-of-Code Logger"
 day: "1"
 publishDate: "2021-02-08"
 thumbnailImage: "../images/day-1.png"
