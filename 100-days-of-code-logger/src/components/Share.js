@@ -1,11 +1,11 @@
 import React from "react"
 import { makeStyles } from "@material-ui/core/styles"
-import { FontAwesomeIcon } from "@fontawesome/react-fontawesome"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
   faFacebookF,
   faTwitter,
   faLinkedinIn,
-} from "@forntawesome/free-brand-svg-icons"
+} from "@fortawesome/free-brands-svg-icons"
 
 const useStyles = makeStyles(theme => ({
   shareIcon: {

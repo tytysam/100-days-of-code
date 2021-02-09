@@ -1,7 +1,9 @@
 import React, { useState } from "react"
 import moment from "moment"
 import { Link } from "gatsby"
-import { makeStyles, makeTheme } from "@material-ui/core/styles"
+import { makeStyles, withStyles } from "@material-ui/core/styles"
+import MuiDialogTitle from "@material-ui/core/DialogTitle"
+import MuiDialogContent from "@material-ui/core/DialogContent"
 import {
   Card,
   CardActionArea,
@@ -9,8 +11,6 @@ import {
   CardMedia,
   Dialog,
   Grid,
-  MuiDialogTitle,
-  MuiDialogContent,
   IconButton,
   Typography,
 } from "@material-ui/core"
@@ -71,7 +71,7 @@ const DialogTitle = props => {
             </IconButton>
           </>
         ) : null}
-        <Link to={`Day-${day}`}>
+        <Link to={`day-${day}`}>
           <IconButton aria-label="open-in-new" className={classes.button}>
             <OpenInNew />
           </IconButton>
@@ -139,7 +139,7 @@ export default function DayThumbnail({ data }) {
       </Card>
       <Dialog
         onClose={handleClose}
-        aria-labeledby="customized-dialog-option"
+        aria-labelledby="customized-dialog-option"
         open={open}
       >
         <DialogTitle
