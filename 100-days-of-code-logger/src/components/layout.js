@@ -12,20 +12,42 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
+import {
+  createMuiTheme,
+  ThemeProvider as MuiThemeProvider,
+} from "@material-ui/core/styles"
+import theme from "../theme/theme.js"
+
+const MuiTheme = createMuiTheme(theme)
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
+    query SiteDescriptionQuery {
       site {
         siteMetadata {
-          title
+          description
+          author
+          githubUrl
+          twitterUrl
+        }
+      }
+      avatar: file(relativePath: { eq: "TCS_main.png" }) {
+        childImageSharp {
+          fixed(height: 84) {
+            ...GatsbyImageSharpFixed
+          }
         }
       }
     }
   `)
 
   return (
-    <>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
+    <MuiThemeProvider theme={MuiTheme}>
+      <Header
+        siteDescription={data.site.siteMetadata.description}
+        avatar={data.avatar}
+        twitterUrl={data.site.siteMetadata.twitterUrl}
+      />
       <div
         style={{
           margin: `0 auto`,
@@ -34,17 +56,20 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `2rem`,
-          }}
-        >
-          © {new Date().getFullYear()}, Built with
+        <footer>
+          © {new Date().getFullYear()}. Built by
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href={data.site.siteMetadata.githubUrl}
+          >
+            {data.site.siteMetadata.author}
+          </a>
+          .
         </footer>
       </div>
-    </>
+    </MuiThemeProvider>
   )
 }
 
