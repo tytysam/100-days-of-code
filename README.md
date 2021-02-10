@@ -5,14 +5,17 @@
 ### Day 1: February 9th Tuesday
 
 **Today's Progress**:
+<br />
 I dove into Gatsby today. After watching a few different Youtube "crash courses", I set off to create this visual "logger" for my 100 Days of Code. I'm hoping that giving myself this public forum will help keep me motivated and accountable for coding each day + providing updates.
 
 Building this also gave me a chance to play with Material UI + custom Mui themes.
 
 **Thoughts:**
+<br />
 Continueing to invest in breadth before I invest heavily in depth. Those days are not far off though. React/Redux/Next + Vue/Vuex/Nuxt here I come.
 
 **Link to work:**
+<br />
 You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a> as well as on my personal portfolio site, <a href="http://www.tylercsamuelson.com/projects" target="_blank">here</a>.
 
 ### Day 2: February 10th Wednesday

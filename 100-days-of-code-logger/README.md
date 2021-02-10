@@ -1,4 +1,4 @@
-## 🚀 Quick start
+## 🚀 100 Days of Code - Tyler Samuelson
 
 This Gatsby site is part of my 100 Days of Code journey. For my first day of 100 Days of Code, I wanted to kick things off by building a place for all of my daily progress to live. Thus, I built this "logger" website, with details about what I have worked on each day.
 
