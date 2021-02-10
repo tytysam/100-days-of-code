@@ -20,7 +20,6 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
-<br />
 
 ### Day 2: February 10th Wednesday
 
@@ -40,7 +39,6 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
-<br />
 
 ### Day 3: February 11th Thursday
 
