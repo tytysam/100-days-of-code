@@ -18,17 +18,29 @@ Continueing to invest in breadth before I invest heavily in depth. Those days ar
 <br />
 You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a> as well as on my personal portfolio site, <a href="http://www.tylercsamuelson.com/projects" target="_blank">here</a>.
 <br />
-<br />
 
 <hr>
+<br />
 
 ### Day 2: February 10th Wednesday
 
-**Today's Progress**: More progress on the canvas of the Pomodoro Clock. Worked on CSS (still figuring out Flexbox things), have done some work with HTML5 canvas.
+**Today's Progress**:
+<br />
+A little less code, but a lot of video content today. Reading articles + watching videos about GitLab. Trying to fill some knowledge gaps around DevOps lifecycle tools + CI/CD + deployment pipelines.
 
-**Thoughts:** It's a bit frustrating to spend a lot of time figuring out how the canvas works.
+Also spent a fair amount of time messing around with Material UI and my custom MUI theme for this site.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/2df8eae4f279cf45b6b080abc7f6b0d2cc58e742)
+**Thoughts:**
+<br />
+Gatsby was not near as fun to develop with (yet at least) as everyone's been telling me... Learned lots about GitLab and DevOps though!
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+<br />
 
 ### Day 3: February 11th Thursday
 
