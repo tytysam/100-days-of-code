@@ -29,7 +29,7 @@ const useStyles = makeStyles(theme => ({
   text: {
     margin: theme.spacing(2, 0),
     " & p > a, li > a, h3 > a, h2 > a": {
-      borderBottom: `2px solid ${theme.palette.primary.main}`,
+      // borderBottom: `2px solid ${theme.palette.primary.main}`,
     },
     lineHeight: 1.8,
     padding: "16px 16px 0px 16px",
@@ -66,9 +66,10 @@ const DayTemplate = ({ data, pageContext }) => {
         <div className={classes.container}>
           <Card className={classes.article}>
             <Typography
-              variant="h1"
+              variant="h2"
               style={{ fontSize: isTablet ? "2rem" : "2.5rem" }}
               className={classes.typography}
+              align="center"
             >
               {data.markdownRemark.frontmatter.title}
             </Typography>

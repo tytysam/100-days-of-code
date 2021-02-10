@@ -19,6 +19,7 @@ const typography = {
 
   fontSize: 14, // default value
   fontFamily: [
+    "Montserrat",
     "-apple-system",
     "BlinkMacSystemFont",
     '"Segoe UI"',
@@ -68,7 +69,8 @@ const typography = {
   },
   subtitle1: {
     fontSize: "1rem",
-    fontWeight: 500,
+    fontWeight: 300,
+    lineHeigh: "1rem",
   },
   subtitle2: {
     fontSize: "0.875rem",

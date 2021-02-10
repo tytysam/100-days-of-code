@@ -2,7 +2,7 @@
 
 ## Tyler Samuelson - Round 1 of #100DaysOfCode
 
-### Day 1: February 9th Tuesday
+### Day 1: Tuesday, February 9th
 
 **Today's Progress**:
 <br />
@@ -17,6 +17,10 @@ Continueing to invest in breadth before I invest heavily in depth. Those days ar
 **Link to work:**
 <br />
 You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a> as well as on my personal portfolio site, <a href="http://www.tylercsamuelson.com/projects" target="_blank">here</a>.
+<br />
+<br />
+
+<hr>
 
 ### Day 2: February 10th Wednesday
 

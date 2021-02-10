@@ -13,7 +13,6 @@ const useStyles = makeStyles(theme => ({
   background: {
     display: "flex",
     flexDirection: "row",
-    justifyContent: "center",
   },
   typography: {
     paddingBottom: theme.spacing(4),
@@ -26,7 +25,7 @@ const GridLayout = ({ data, siteTitle }) => {
   return (
     <div className={classes.background}>
       <div className={classes.container}>
-        <Typography variant="h1" className={classes.typography}>
+        <Typography variant="h1" className={classes.typography} align="center">
           {siteTitle}
         </Typography>
         {data.length > 0 ? (

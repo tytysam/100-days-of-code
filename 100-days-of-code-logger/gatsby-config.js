@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Tyler's 100 Days of Code`,
-    description: `Hi, I'm Tyler! I'm a digital creator + developer completing R1 of the 100 Days of Code Challenge.`,
+    description: `Hi, I'm Tyler — a designer + developer living in Denver, CO.`,
     author: `@tytysam`,
     githubUrl: "https://github.com/tytysam",
     twitterUrl: "https://twitter.com/TyTySam",
@@ -30,7 +30,7 @@ module.exports = {
         name: `100 Days of Code Template`,
         short_name: `template`,
         start_url: `/`,
-        background_color: `#663399`,
+        background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/TS.png`, // This path is relative to the root of the site.

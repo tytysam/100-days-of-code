@@ -2,18 +2,23 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
 import { makeStyles } from "@material-ui/core/styles"
-import { Avatar, Button, Grid, Typography } from "@material-ui/core"
+import { Button, Grid, Typography } from "@material-ui/core"
 import { Twitter } from "@material-ui/icons"
 
 const useStyles = makeStyles(theme => ({
-  avatarContainer: {
+  headerContainer: {
     display: "flex",
     flexDirection: "row",
-    maxWidth: 600,
+    justifyContent: "center",
+    alignItems: "center",
+
+    maxWidth: 800,
+    minWidth: 250,
   },
-  avatar: {
-    width: theme.spacing(6),
-    height: theme.spacing(6),
+  wordmark: {
+    minWidth: "50px",
+    width: "50px",
+    height: "50px",
     marginRight: theme.spacing(2),
   },
 }))
@@ -26,21 +31,22 @@ const Header = ({ avatar, siteDescription, twitterUrl }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 960,
+          maxWidth: 1200,
+          minWidth: 350,
           padding: `1.45rem 1.0875rem`,
         }}
       >
-        <Grid container direction="row" spacing={2} justify="space-between">
+        <Grid container direction="row" spacing={1} justify="space-between">
           <Grid item>
-            <div className={classes.avatarContainer}>
+            <div className={classes.headerContainer}>
               <Link to={"/"}>
-                <Avatar
+                <img
                   src={avatar.childImageSharp.fixed.src}
                   alt="TCS Personal Wordmark :)"
-                  className={classes.avatar}
+                  className={classes.wordmark}
                 />
               </Link>
-              <Typography gutterBottom variant="subtitle2">
+              <Typography gutterBottom variant="subtitle1">
                 {siteDescription}
               </Typography>
             </div>
@@ -53,7 +59,7 @@ const Header = ({ avatar, siteDescription, twitterUrl }) => {
               target="_blank"
               startIcon={<Twitter />}
             >
-              Follow me on Twitter
+              Connect on Twitter
             </Button>
           </Grid>
         </Grid>

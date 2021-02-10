@@ -1,7 +1,7 @@
 ---
-title: "My 100 Days-of-Code Logger"
+title: "Building This Site with Gatsby"
 day: "1"
-publishDate: "2021-02-08"
+publishDate: "2021-02-09"
 thumbnailImage: "../images/day-1.png"
 shareText: "I built a place for my 100 Days of Code to live!"
 hashtags: ["100DaysOfCode", "Gatsby"]

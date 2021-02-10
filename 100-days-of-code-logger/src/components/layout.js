@@ -9,7 +9,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
-import Header from "./header"
+import Header from "./header.js"
 import "./layout.css"
 
 import {
@@ -31,9 +31,9 @@ const Layout = ({ children }) => {
           twitterUrl
         }
       }
-      avatar: file(relativePath: { eq: "TCS_main.png" }) {
+      avatar: file(relativePath: { eq: "TS.png" }) {
         childImageSharp {
-          fixed(height: 84) {
+          fixed(height: 233) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -55,8 +55,8 @@ const Layout = ({ children }) => {
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
-        <main>{children}</main>
-        <footer>
+        <main style={{ minWidth: "350px" }}>{children}</main>
+        <footer align="center">
           © {new Date().getFullYear()}. Built by
           {` `}
           <a

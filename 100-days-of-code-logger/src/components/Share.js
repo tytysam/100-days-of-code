@@ -4,12 +4,13 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
   faFacebookF,
   faTwitter,
-  faLinkedinIn,
+  // faLinkedinIn,
 } from "@fortawesome/free-brands-svg-icons"
 
 const useStyles = makeStyles(theme => ({
   shareIcon: {
     marginRight: "1em",
+    color: "#759280",
   },
 }))
 
@@ -25,8 +26,8 @@ function Share({ title, text, hashtags }) {
   const url = typeof window !== "undefined" ? window.location.href : ""
 
   const twitter = `https://twitter.com/intent/tweet?url=${url}&text=${text}&hashtags=${hashtagsStr}`
-  const facebook = `https://www.facebook.com/sharer/sharer.php?u=${url}`
-  const linkedin = `https://www.linkedin.com/shareArticle?mini=true&url=${url}&title=${title}&summary=${text}`
+  const facebook = `https://www.facebook.com/sharer.php?u=${url}`
+  // const linkedin = `https://www.linkedin.com/sharing/share-offsite/?url=${url}`
 
   return (
     <>
@@ -44,13 +45,13 @@ function Share({ title, text, hashtags }) {
           size="lg"
         />
       </a>
-      <a href={linkedin} target="_blank" rel="noreferrer">
+      {/* <a href={linkedin} target="_blank" rel="noreferrer">
         <FontAwesomeIcon
           className={classes.shareIcon}
           icon={faLinkedinIn}
           size="lg"
         />
-      </a>
+      </a> */}
     </>
   )
 }

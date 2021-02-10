@@ -4,14 +4,14 @@ import Chip from "@material-ui/core/Chip"
 
 const useStyles = makeStyles(theme => ({
   chip: {
-    backgroundColor: "rgba(233, 236, 238, 0.2)",
-    borderRadius: 3,
+    // backgroundColor: "rgba(117, 146, 128, .3)",
+    backgroundColor: "#9E7454",
   },
 }))
 
 const Tag = ({ tag }) => {
   const classes = useStyles()
-  return <Chip label={tag} size="small" className={classes.chip} />
+  return <Chip label={tag} size="medium" className={classes.chip} />
 }
 
 export default Tag

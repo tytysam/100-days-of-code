@@ -1,23 +1,23 @@
 import chroma from "chroma-js"
-import typography from "./typography"
-import createShadows from "./shadows"
+import typography from "./typography.js"
+import createShadows from "./shadows.js"
 
 export const theme = {
   palette: {
     type: "dark",
     common: {
-      black: "#383A40",
-      white: "#FFF",
+      black: "#2D2A28",
+      white: "#ffffff",
     },
     primary: {
-      main: "#00B4EE",
-      light: chroma("#00B4EE").brighten().hex(),
-      dark: chroma("#00B4EE").darken().hex(),
-      contrastText: "#FFF",
+      main: "#759280",
+      light: chroma("#759280").brighten().hex(),
+      dark: chroma("#759280").darken().hex(),
+      contrastText: "#EFE5CB",
     },
     secondary: {
-      main: "#919EAB",
-      contrastText: "#FFF",
+      main: "#9E7454",
+      contrastText: "#EFE5CB",
     },
     error: {
       main: "#ff3b18",
@@ -36,15 +36,15 @@ export const theme = {
       contrastText: "#FFF",
     },
     text: {
-      primary: "#FFF",
-      secondary: "#919EAB",
+      primary: "#2D2A28",
+      secondary: "#9E7454",
       disabled: "rgba(255, 255, 255, 0.38)",
       hint: "rgba(255, 255, 255, 0.38)",
     },
     divider: "rgba(0, 0, 0, 0.12)",
     background: {
-      paper: "#39393C",
-      default: "#1F2023",
+      paper: "#2D2A28",
+      default: "#2D2A28",
     },
     action: {
       active: "rgba(0, 0, 0, 0.54)",
@@ -54,12 +54,6 @@ export const theme = {
       disabled: "rgba(255, 255, 255, 0.35)",
       disabledBackground: "rgba(255, 255, 255, 0.15)",
     },
-    /* custom palette */
-    black: "#1F2023",
-    purple: "#5370E6",
-    gray: "#919EAB",
-    darkBlue: "#252D3B",
-    yellow: "#FFBD14",
   },
   shape: { borderRadius: 3 },
   typography: typography,
@@ -86,17 +80,17 @@ export const theme = {
       variant: "fullWidth",
     },
   },
-  shadows: createShadows("#000"),
+  shadows: createShadows("#2D2A28"),
   overrides: {
     MuiAppBar: {
       root: {
-        background: "#1F2023 !important",
+        background: "#ffffff !important",
       },
     },
     MuiAvatar: {
       colorDefault: {
-        color: "#00B4EE",
-        backgroundColor: chroma("#00B4EE").alpha(0.2).hex(),
+        color: "#9E7454",
+        backgroundColor: chroma("#9E7454").alpha(0.2).hex(),
       },
     },
     MuiButton: {
@@ -147,7 +141,7 @@ export const theme = {
     },
     MuiDivider: {
       root: {
-        backgroundColor: "rgba(233, 236, 238, 0.1)",
+        backgroundColor: "rgba(3, 236, 238, 0.1)",
       },
     },
     MuiFormLabel: {
@@ -175,7 +169,7 @@ export const theme = {
     },
     MuiSkeleton: {
       root: {
-        backgroundColor: "rgba(57,57,60, 0.6)",
+        backgroundColor: "rgba(57,57,60, 1)",
       },
     },
     MuiTab: {
@@ -196,13 +190,13 @@ export const theme = {
     },
     MuiTypography: {
       root: {
-        color: "#FFFFFF",
+        color: "#2D2A28",
       },
       h1: {
-        color: "#FFFFFF",
+        color: "#2D2A28",
       },
       h2: {
-        color: "#FFFFFF",
+        color: "#EFE5CB",
       },
       h3: {
         color: "#FFFFFF",
@@ -211,22 +205,22 @@ export const theme = {
         color: "#FFFFFF",
       },
       h5: {
-        color: "#FFFFFF",
+        color: "#ffffff",
       },
       h6: {
-        color: "#FFFFFF",
+        color: "#EFE5CB",
       },
       subtitle1: {
-        color: "#FFF",
+        color: "#2D2A28",
       },
       subtitle2: {
-        color: "#919EAB",
+        color: "#9E7454",
       },
       body1: {
         color: "#FFF",
       },
       body2: {
-        color: "#FFFFFF",
+        color: "#EFE5CB",
       },
       caption: {
         color: "#919EAB",

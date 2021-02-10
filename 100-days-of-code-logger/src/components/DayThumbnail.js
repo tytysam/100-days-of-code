@@ -33,7 +33,7 @@ const useStyles = makeStyles(theme => ({
     padding: theme.spacing(2),
   },
   button: {
-    color: theme.palette.grey[500],
+    color: "#759280",
   },
   buttonContainer: {
     position: "absolute",
