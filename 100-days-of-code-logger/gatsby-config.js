@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Tyler's 100 Days of Code`,
-    description: `Hi, I'm Tyler — a designer + developer living in Denver, CO.`,
+    description: `Hi, I'm Tyler — a designer + developer currently living in Denver, CO.`,
     author: `@tytysam`,
     githubUrl: "https://github.com/tytysam",
     twitterUrl: "https://twitter.com/TyTySam",

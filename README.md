@@ -25,13 +25,13 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 
 **Today's Progress**:
 <br />
-A little less code, but a lot of video content today. Reading articles + watching videos about GitLab. Trying to fill some knowledge gaps around DevOps lifecycle tools + CI/CD + deployment pipelines.
+A little less code, but a lot of video content today. Reading articles + watching videos about GitLab and Unit Testing. Trying to fill some knowledge gaps around DevOps lifecycle tools + CI/CD + deployment pipelines.
 
 Also spent a fair amount of time messing around with Material UI and my custom MUI theme for this site.
 
 **Thoughts:**
 <br />
-Gatsby was not near as fun to develop with (yet at least) as everyone's been telling me... Learned lots about GitLab and DevOps though!
+Gatsby was not near as fun to develop with (_yet_ at least 🙈) as everyone's been telling me... However, I will say it is FAST. Once I figure out some of the nuance, Learned lots about GitLab and DevOps though!
 
 **Link to work:**
 <br />

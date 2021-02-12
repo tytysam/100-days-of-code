@@ -1,4 +1,5 @@
 import React from "react"
+import { graphql } from "gatsby"
 import Pagination from "./Pagination.js"
 import Layout from "./layout.js"
 import SEO from "./seo.js"
