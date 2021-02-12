@@ -14,7 +14,7 @@ import {
   IconButton,
   Typography,
 } from "@material-ui/core"
-import { Close, OpenInNew } from "@material-ui/icons"
+import { Close, FormatAlignCenter, OpenInNew } from "@material-ui/icons"
 
 import DayTag from "./DayTag.js"
 
@@ -85,6 +85,7 @@ const DialogContent = withStyles(theme => {
   return {
     root: {
       padding: theme.spacing(2),
+      margin: "0 auto",
     },
   }
 })(MuiDialogContent)
@@ -106,7 +107,11 @@ export default function DayThumbnail({ data }) {
 
   return (
     <>
-      <Card className={classes.root} elevation={2}>
+      <Card
+        className={classes.root}
+        elevation={2}
+        style={{ margin: "0 auto", width: "285px" }}
+      >
         <CardActionArea component="button" onClick={handleClickOpen}>
           <CardMedia
             className={classes.media}

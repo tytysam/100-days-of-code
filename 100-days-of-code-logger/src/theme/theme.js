@@ -112,7 +112,7 @@ export const theme = {
     },
     MuiCardActions: {
       root: {
-        padding: 16,
+        // padding: 16,
       },
     },
     MuiCardHeader: {
@@ -136,7 +136,7 @@ export const theme = {
     },
     MuiDialogActions: {
       root: {
-        padding: 16,
+        // padding: 16,
       },
     },
     MuiDivider: {
