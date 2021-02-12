@@ -15,7 +15,9 @@ const useStyles = makeStyles(theme => ({
     flexDirection: "row",
   },
   typography: {
-    paddingBottom: theme.spacing(4),
+    paddingBottom: theme.spacing(6),
+    fontFamily: "Montserrat",
+    fontWeight: 100,
   },
 }))
 

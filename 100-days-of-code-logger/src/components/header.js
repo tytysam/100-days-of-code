@@ -53,13 +53,19 @@ const Header = ({ avatar, siteDescription, twitterUrl }) => {
           </Grid>
           <Grid item>
             <Button
-              variant="text"
               color="default"
               href={twitterUrl}
               target="_blank"
               startIcon={<Twitter />}
             >
-              Connect on Twitter
+              <span
+                style={{
+                  fontFamily: "Montserrat",
+                  fontWeight: 400,
+                }}
+              >
+                Connect on Twitter
+              </span>
             </Button>
           </Grid>
         </Grid>

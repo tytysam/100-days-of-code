@@ -8,19 +8,21 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
-
 import Header from "./header.js"
 import "./layout.css"
-
 import {
   createMuiTheme,
   ThemeProvider as MuiThemeProvider,
 } from "@material-ui/core/styles"
 import theme from "../theme/theme.js"
 
+import digitalSignature from "./DigitalSignature.js"
+
 const MuiTheme = createMuiTheme(theme)
 
 const Layout = ({ children }) => {
+  digitalSignature()
+
   const data = useStaticQuery(graphql`
     query SiteDescriptionQuery {
       site {
