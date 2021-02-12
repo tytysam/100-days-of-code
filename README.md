@@ -49,7 +49,7 @@ Today was all about the CSS. As a designer at heart, one of my absolute favorite
 
 Bootstrap is likely still my go-to framework, but today was all about Tailwind.
 
-I also threw some time at playing with some more complicated CSS animations / transitions... More to come!
+I also threw some time at playing with some more complicated CSS animations / transitions... Read a really great piece by Tobias Ahlin about Meaningful Motion with Action-Driven Animation. Spoke to using action-driven animation rather than state-driven animation... super interesting. More to come!
 
 **Thoughts:**
 <br />
