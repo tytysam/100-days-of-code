@@ -42,8 +42,22 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 
 ### Day 3: February 11th Thursday
 
-**Today's Progress**: Mostly worked on CSS. Coded very late at night, after French.
+**Today's Progress**:
+<br />
 
-**Thoughts:** Had some CSS breakthroughs, and was happy at the end.
+Today was all about the CSS. As a designer at heart, one of my absolute favorite things is playing around in CSS and seeing how I can shift the tone / feel / emotions of a site without ever touching the content. There is so much storytelling that happens implicitly in design — trying to harness and focus that storytelling is always a fun exercise.
 
-**Link to work:** [Pomodoro Clock App](https://github.com/Kallaway/pomodoro-clock/commit/61bd66ec1d07d3e8d1b21c08380e4c826c79b67f)
+Bootstrap is likely still my go-to framework, but today was all about Tailwind.
+
+I also threw some time at playing with some more complicated CSS animations / transitions... More to come!
+
+**Thoughts:**
+<br />
+I had almost 5 hours worth of programming for GA's Outcomes today, so that took a huge chunk of my day. Needed to slow down a bit, so CSS was a some nice comfort food for my brain.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
