@@ -3,7 +3,7 @@ title: "LeetCode Kickoff: Algorithms"
 day: "4"
 publishDate: "2021-02-12"
 thumbnailImage: "../images/day-4.png"
-shareText: "CSS, CSS, and more CSS."
+shareText: "Algorithms on LeetCode"
 hashtags: ["100DaysOfCode", "LeetCode", "Algorithms"]
 draft: false
 ---

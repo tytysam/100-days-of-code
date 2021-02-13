@@ -81,3 +81,23 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 5: Saturday, February 13th
+
+**Today's Progress**:
+<br />
+
+Dedicated today to familiarizing myself with technologies that I currently only really know the name of… in other words, a pleasant, albeit cold Denver afternoon of hot coffee + Youtube and simple coding examples. “Crash course” highlights include: Docker, Kubernetes, Drupal, GCP, and Regular Expressions.
+
+Also spent some time with Dan Abramov's <a href="https://whatthefuck.is/" target="_blank">whatthefuck.is</a>, a nice little (but growing) compendium of explanation-worthy JS terms. (Sidenote: I can never help but recommend Dan's <a href="https://justjavascript.com/" target="_blank">JustJavaScript "course"</a> to anyone new to programming, or anyone who enjoys exploring mental models!)
+
+**Thoughts:**
+<br />
+Learned in lots of directions today, which kinda feels a little obtuse, but I personally see a lot of value in having basic understandings of what each of these technologies are at their most simple level (if only to build better mental models of how they interact/pair with other technologies).
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
