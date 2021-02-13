@@ -21,7 +21,7 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 
 <hr>
 
-### Day 2: February 10th Wednesday
+### Day 2: Wednesday, February 10th
 
 **Today's Progress**:
 <br />
@@ -40,7 +40,7 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 
 <hr>
 
-### Day 3: February 11th Thursday
+### Day 3: Thursday, February 11th
 
 **Today's Progress**:
 <br />
@@ -54,6 +54,26 @@ I also threw some time at playing with some more complicated CSS animations / tr
 **Thoughts:**
 <br />
 I had almost 5 hours worth of programming for GA's Outcomes today, so that took a huge chunk of my day. Needed to slow down a bit, so CSS was a some nice comfort food for my brain.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 4: Friday, February 12th
+
+**Today's Progress**:
+<br />
+
+Had a busier day today + it was Friday, so I didn't have quite as much time to throw at code today as I would've liked.
+
+However, I tried to at least get a couple hours throughout the day working on Algo challenges in LeetCode. I've used HackerRank and some others for code practice, but had never actually used LeetCode until today. So, I got an account setup and dove into a few 'easy' algorithm challenges. Made it all of the way through 'Plus One' and 'Sqrt(x)' (eventually).
+
+**Thoughts:**
+<br />
+Really enjoy working through algorithms when I can finally force myself to sit down and just work through them. Fun mental exercises. Hoping to integrate daily (or daily-ish) LeetCode challenges into my schedule here soon.
 
 **Link to work:**
 <br />
