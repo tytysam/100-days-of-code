@@ -14,7 +14,7 @@ import {
   IconButton,
   Typography,
 } from "@material-ui/core"
-import { Close, FormatAlignCenter, OpenInNew } from "@material-ui/icons"
+import { Close, OpenInNew } from "@material-ui/icons"
 
 import DayTag from "./DayTag.js"
 

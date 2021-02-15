@@ -101,3 +101,43 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 6: Sunday, February 14th
+
+**Today's Progress**:
+<br />
+
+Fine-tuned my Figma skills! I've been playing around with a few different programs for designing mockups + wireframes, and I've really come to enjoy Figma. Planning to be better about using Figma (or an equivalent) on non-client work too to get plenty more chances to practice it.
+
+**Thoughts:**
+<br />
+Figma might just have earned itself a spot as my default prototyping tool at this point.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 7: Monday, February 15th
+
+**Today's Progress**:
+<br />
+
+Today was spent refining the mobile-responsiveness of my portfolio site. Few things better/worse than a gracious soul reaching out to let you know that your site looks ~not-great on [XYZ Device]. Shoutout to those gracious souls.
+
+Check out my <a href="http://www.tylercsamuelson.com" target="_blank">portfolio site</a> and be sure to let me know if your phone's display looks anything less than clean | clear | crisp.
+
+Also finally sat down and integrated Google Analytics into my site, so now I have a nice flow of #data.
+
+**Thoughts:**
+<br />
+Few things better/worse than a gracious soul reaching out to let you know that your site looks ~not-great on [XYZ Device].
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
