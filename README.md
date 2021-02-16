@@ -125,7 +125,7 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 **Today's Progress**:
 <br />
 
-Today was spent refining the mobile-responsiveness of my portfolio site. Few things better/worse than a gracious soul reaching out to let you know that your site looks ~not-great on [XYZ Device]. Shoutout to those gracious souls.
+Today was spent refining the mobile-responsiveness of my portfolio site.
 
 Check out my <a href="http://www.tylercsamuelson.com" target="_blank">portfolio site</a> and be sure to let me know if your phone's display looks anything less than clean | clear | crisp.
 
@@ -134,6 +134,26 @@ Also finally sat down and integrated Google Analytics into my site, so now I hav
 **Thoughts:**
 <br />
 Few things better/worse than a gracious soul reaching out to let you know that your site looks ~not-great on [XYZ Device].
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 8: Tuesday, February 16th
+
+**Today's Progress**:
+<br />
+
+Started exploring VS Code documentation around developing your own extensions! I've had a few ideas popping around my head for a bit now, so I'm stoked to have familiarized myself with the development process!
+
+VS Code's documentation is super thorough and clear — if anyone is interested, <a href="https://code.visualstudio.com/api/get-started/your-first-extension" target="_blank">this is the documentation</a> that I was reading this morning.
+
+**Thoughts:**
+<br />
+Keep an eye on this space: I may have more than just an example-extension built before long 😏
 
 **Link to work:**
 <br />
