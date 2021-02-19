@@ -1,6 +1,6 @@
 ---
 title: "Google Analytics & Media Queries"
-day: "7"
+day: "07"
 publishDate: "2021-02-15"
 thumbnailImage: "../images/day-7.png"
 shareText: "Crash courses out the wazoo, today."

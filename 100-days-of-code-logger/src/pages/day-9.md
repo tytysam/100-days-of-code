@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Review Prep"
-day: "9"
+day: "09"
 publishDate: "2021-02-17"
 thumbnailImage: "../images/day-9.png"
 shareText: "Check out my professional portfolio!"

@@ -1,6 +1,6 @@
 ---
 title: "GitLab + CI/CD Learning"
-day: "2"
+day: "02"
 publishDate: "2021-02-10"
 thumbnailImage: "../images/day-2.png"
 shareText: "Working on filling gaps around CI/CD"

@@ -1,6 +1,6 @@
 ---
 title: "LeetCode Kickoff: Algorithms"
-day: "4"
+day: "04"
 publishDate: "2021-02-12"
 thumbnailImage: "../images/day-4.png"
 shareText: "Algorithms on LeetCode"

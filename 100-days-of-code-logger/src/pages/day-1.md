@@ -1,6 +1,6 @@
 ---
 title: "Building This Site with Gatsby"
-day: "1"
+day: "01"
 publishDate: "2021-02-09"
 thumbnailImage: "../images/day-1.png"
 shareText: "I built a place for my 100 Days of Code to live!"

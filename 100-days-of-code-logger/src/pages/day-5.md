@@ -1,6 +1,6 @@
 ---
 title: "Learning feat. Dan Abramov"
-day: "5"
+day: "05"
 publishDate: "2021-02-13"
 thumbnailImage: "../images/day-5.png"
 shareText: "Crash courses out the wazoo, today."

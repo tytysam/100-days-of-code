@@ -1,6 +1,6 @@
 ---
 title: "Building my first extension for VS Code"
-day: "8"
+day: "08"
 publishDate: "2021-02-16"
 thumbnailImage: "../images/day-8.png"
 shareText: "Let's make our own VS Code extension!"

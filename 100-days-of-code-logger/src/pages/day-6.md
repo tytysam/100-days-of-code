@@ -1,6 +1,6 @@
 ---
 title: "Prototyping with Figma"
-day: "6"
+day: "06"
 publishDate: "2021-02-14"
 thumbnailImage: "../images/day-6.png"
 shareText: "Developing some best practices for Figma!"

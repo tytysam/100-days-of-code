@@ -1,6 +1,6 @@
 ---
 title: "Tailwind CSS + Other CSS Goodies"
-day: "3"
+day: "03"
 publishDate: "2021-02-11"
 thumbnailImage: "../images/day-3.png"
 shareText: "CSS, CSS, and more CSS."
