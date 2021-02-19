@@ -183,3 +183,34 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 10: Thursday, February 18th
+
+**Today's Progress**:
+<br />
+
+I’ve spent the past week throwing time at disparate topics that had ended up on the back-burner + generally just chasing random curiosities, which has been super fun and energizing in its own right.
+
+But now I’m planning to shift gears and focus on refining what I already know, SO: to kick things off, I’m going back to where it all started for me… React!
+
+To get back into it, I made a simple little web application that uses Google's Translate API to translate input text from English to the selected output language.
+
+Here's what I focused on reinforcing today:
+
+- useState and useEffect hooks
+- Making an API call with Axios
+- Structuring my own data models
+- API setup and auth through Google
+
+**Thoughts:**
+<br />
+Had a lot of fun debugging today. Absolutely love the satisfaction of finally solving a bug that's been plaguing you.
+
+**Link to work:**
+<br />
+Test out my translator <a href="https://tcs-simple-language-translator.netlify.app/" target="_blank">here</a>!
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
