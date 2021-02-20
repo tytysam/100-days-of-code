@@ -14,6 +14,6 @@ After that general learning, I zeroed-in on React.
 
 Here's what I focused on today:
 
-- Building content with JSX
+- Understanding JSX and the JSX build process intimately
 - Deep dive into the nuances of create-react-app
 - Building some content with JSX

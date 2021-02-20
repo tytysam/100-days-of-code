@@ -240,3 +240,28 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 12: Saturday, February 20th
+
+**Today's Progress**:
+<br />
+
+Kicked today off with a couple fun articles about some advanced SVG and CSS manipulations. Now I'm looking for excuses to animate bezier curves in CSS—stay tuned..
+
+Otherwise, I circled back to React after my fun-focused reads.
+
+Here's how I split my time:
+
+- Building content with JSX
+- Deep dive into the nuances of create-react-app
+- Building some content with JSX
+
+**Thoughts:**
+<br />
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
