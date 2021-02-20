@@ -246,18 +246,21 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 **Today's Progress**:
 <br />
 
-Kicked today off with a couple fun articles about some advanced SVG and CSS manipulations. Now I'm looking for excuses to animate bezier curves in CSS—stay tuned..
+Kicked today off with a couple fun articles about some advanced SVG and CSS manipulations. Now I'm looking for excuses to animate bezier curves in CSS — stay tuned..
 
 Otherwise, I circled back to React after my fun-focused reads.
 
 Here's how I split my time:
 
-- Building content with JSX
-- Deep dive into the nuances of create-react-app
-- Building some content with JSX
+- Communicating with props
+- Structuring apps with class-based components
+- Handling async operations with functional components
+- Refactoring from functional to class components
+- State in React components
 
 **Thoughts:**
 <br />
+Today's content got a lot of fun ideas stirred up, so I'm stoked to carve out some time for personal projects ASAP as possible... :)
 
 **Link to work:**
 <br />
