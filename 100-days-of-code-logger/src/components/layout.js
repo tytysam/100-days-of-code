@@ -68,6 +68,16 @@ const Layout = ({ children }) => {
           >
             {data.site.siteMetadata.author}
           </a>
+          {` `}
+          using
+          {` `}
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://www.gatsbyjs.com/docs/quick-start/"
+          >
+            Gatsby
+          </a>
           .
         </footer>
       </div>
