@@ -71,7 +71,7 @@ const DialogTitle = props => {
             </IconButton>
           </>
         ) : null}
-        <Link to={`day-${day}`}>
+        <Link to={`/day-${day}`}>
           <IconButton aria-label="open-in-new" className={classes.button}>
             <OpenInNew />
           </IconButton>
@@ -115,7 +115,11 @@ export default function DayThumbnail({ data }) {
         <CardActionArea component="button" onClick={handleClickOpen}>
           <CardMedia
             className={classes.media}
-            image={data.frontmatter.thumbnailImage.childImageSharp.fluid.src}
+            image={
+              data.frontmatter.thumbnailImage
+                ? data.frontmatter.thumbnailImage.childImageSharp.fluid.src
+                : ""
+            }
             title={title}
           />
           <CardContent classes={{ root: classes.cardContent }}>

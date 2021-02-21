@@ -6,6 +6,9 @@ module.exports = {
     githubUrl: "https://github.com/tytysam",
     twitterUrl: "https://twitter.com/TyTySam",
   },
+  // flags: {
+  //   DEV_SSR: false,
+  // },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
@@ -59,6 +62,7 @@ module.exports = {
         },
       },
     },
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

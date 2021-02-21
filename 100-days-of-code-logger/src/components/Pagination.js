@@ -55,7 +55,7 @@ export default function Pagination({ pageContext }) {
         {pageNumbers.map(i => {
           const variant = i === currentPage ? "contained" : "outlined"
           return (
-            <Link key={`pagination-numbers${i}`} to={i === 1 ? "/" : `${i}`}>
+            <Link key={`/pagination-numbers${i}`} to={i === 1 ? "/" : `/${i}`}>
               <Button
                 variant={variant}
                 color="primary"

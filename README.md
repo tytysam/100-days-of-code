@@ -268,3 +268,29 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 13: Sunday, February 21st
+
+**Today's Progress**:
+<br />
+
+Started today with more topical videos about Docker and Kubernetes. Trying to make I have solid literacy and comprehension, even if I'm not working with the technologies super often.
+
+After that general learning, I zeroed-in on React.
+
+Here's what I focused on today:
+
+- Building content with JSX
+- Deep dive into the nuances of create-react-app
+- Building some content with JSX
+
+**Thoughts:**
+<br />
+Really enjoying exploring React in a front-to-back kind of way again. Tomorrow I'm focusing on communicating with Props + taking a deeper dive into structuring apps with class-based components.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
