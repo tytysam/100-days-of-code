@@ -36,7 +36,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const daysPages = days.data.allMarkdownRemark.nodes
 
   // More on pagination here: https://www.gatsbyjs.org/docs/adding-pagination/.
-  const postsPerPage = 6
+  const postsPerPage = 9
   const numPages = Math.ceil(daysPages.length / postsPerPage)
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({

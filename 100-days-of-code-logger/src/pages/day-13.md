@@ -1,18 +1,15 @@
 ---
-title: "Docker, JSX, and create-react-app"
+title: "Portfolio Updates + Lifecycle Methods"
 day: "13"
 publishDate: "2021-02-21"
 thumbnailImage: "../images/day-13.png"
 shareText: "Diving back into React!"
-hashtags: ["100DaysOfCode", "Kubernetes", "Docker"]
+hashtags: ["100DaysOfCode", "React", "LifecycleMethods"]
 draft: false
 ---
 
-Made some coffee and dove straight into React this morning.
+Made some coffee and started my morning by refactoring some portions of my portfolio site. Helped organize + eliminate some edge case issues with the responsiveness of some components. Also added a section highlighting some of my recent projects.
 
-Here's what I worked on:
+Check out the updates to my portfolio <a href="http://www.tylercsamuelson.com/" target="_blank">here</a>.
 
-- Deepening my understanding of lifecycle methods
-- asfd
-- asdf
-- asdf
+After that, I spent some time deepening my understanding of lifecycle methods.

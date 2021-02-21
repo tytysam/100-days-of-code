@@ -274,19 +274,18 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 **Today's Progress**:
 <br />
 
-Started today with more topical videos about Docker and Kubernetes. Trying to make I have solid literacy and comprehension, even if I'm not working with the technologies super often.
+Got an early start to Day #13 of #100DaysOfCode!
 
-After that general learning, I zeroed-in on React.
+Made some coffee and started my morning by refactoring some portions of my portfolio site. Helped organize + eliminate some edge case issues with responsiveness. Also added a section highlighting some of my recent projects.
 
-Here's what I focused on today:
+Check out the updates here 👇🏻
+<a href="http://www.tylercsamuelson.com/" target="_blank">www.tylercsamuelson.com</a>
 
-- Building content with JSX
-- Deep dive into the nuances of create-react-app
-- Building some content with JSX
+After that, I spent time deepening my understanding of lifecycle methods.
 
 **Thoughts:**
 <br />
-Really enjoying exploring React in a front-to-back kind of way again. Tomorrow I'm focusing on communicating with Props + taking a deeper dive into structuring apps with class-based components.
+Trying to maintain momentum on my daily: learning + code work + publishing efforts + job searching... Phew.
 
 **Link to work:**
 <br />

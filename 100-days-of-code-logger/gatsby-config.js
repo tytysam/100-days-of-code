@@ -6,9 +6,9 @@ module.exports = {
     githubUrl: "https://github.com/tytysam",
     twitterUrl: "https://twitter.com/TyTySam",
   },
-  // flags: {
-  //   DEV_SSR: false,
-  // },
+  flags: {
+    DEV_SSR: false,
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
