@@ -12,4 +12,4 @@ Made some coffee and started my morning by refactoring some portions of my portf
 
 Check out the updates to my portfolio <a href="http://www.tylercsamuelson.com/" target="_blank">here</a>.
 
-After that, I spent some time deepening my understanding of lifecycle methods.
+After that, I spent some time deepening my understanding of lifecycle methods. Then debugged a couple pagination issues with my 100 Days of Code log.

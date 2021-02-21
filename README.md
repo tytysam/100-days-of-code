@@ -281,7 +281,7 @@ Made some coffee and started my morning by refactoring some portions of my portf
 Check out the updates here 👇🏻
 <a href="http://www.tylercsamuelson.com/" target="_blank">www.tylercsamuelson.com</a>
 
-After that, I spent time deepening my understanding of lifecycle methods.
+After that, I spent time deepening my understanding of React lifecycle methods. Then debugged a couple pagination issues with my 100 Days of Code log.
 
 **Thoughts:**
 <br />
