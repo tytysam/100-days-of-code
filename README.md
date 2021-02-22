@@ -293,3 +293,28 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 14: Monday, February 22nd
+
+**Today's Progress**:
+<br />
+Happy Monday!
+
+After a few days of troubleshooting, I finally have data reporting from Google Analytics! I hadn't installed tracking code into a website in a little while + my portfolio is built with express-react-views and JSX, it took some finnagling to get the code firing in the right spots. Nice win to start the week!
+
+After that, I set aside some time to work on LinkedIn Skill Assessments — check out my new skill badges <a href="https://www.linkedin.com/in/tcsamuelson/" target="_blank">here</a>.
+
+Finally, I did my daily React. Didn't do a ton today as I diverted more of my time to job-centric things today. That said, I still made time to work on handling user input with forms + events and making API requests with React.
+
+**Thoughts:**
+<br />
+Ebb and flow of productivity. Got tons done in regard to job searching + applying and skills assessments today. Less code, though. More tomorrow!
+
+**Link to work:**
+<br />
+Check out my new skill badges on LinkedIn <a href="https://www.linkedin.com/in/tcsamuelson/" target="_blank">here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
