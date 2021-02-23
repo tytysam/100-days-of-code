@@ -318,3 +318,29 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 15: Tuesday, February 23rd
+
+**Today's Progress**:
+<br />
+
+Today was all about React!
+
+Here's how I split my time:
+
+- Making API requests with React
+- Axios vs Fetch
+- Binding callbacks
+- Extracting options to config objects
+- Controlled Forms vs Uncontrolled Forms
+
+**Thoughts:**
+<br />
+Today was all about React! Really enjoying this front-to-back review of knowledge that I've been working through — such a gratifying feeling to just _get_ concepts that seemed so deeply dense and confusing just a couple months back.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
