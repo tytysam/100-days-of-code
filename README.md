@@ -344,3 +344,33 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 16: Wednesday, February 24th
+
+**Today's Progress**:
+<br />
+
+Spent today building a simple Youtube clone. This React-based app uses the Youtube Data API to take user input from a search field and return multiple videos from Youtube based on your search terms. User can play video in native video player component, or can select a different video from the search results.
+
+I built this simple app in order to reinforce my understanding of the following topics:
+
+- Crafting controlled forms
+- Accessing and utilizing Google's Youtube Data API
+- Building an app using class-based components rather than functional components
+- Leveraging state and lifecycle methods SANS hooks
+- Dynamic rendering based on state
+- Making calls with Axios
+- Styling content using Semantic-UI
+
+**Thoughts:**
+<br />
+Fun day of building! Could have thrown more time at styling, but I accomplished the core of what I was wanting to do, which is reinforce my React knowledge.
+
+**Link to work:**
+<br />
+Test out my Youtube Clone <a href="https://tcs-simple-youtube-clone.netlify.app/" target="_blank">here</a>!
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
