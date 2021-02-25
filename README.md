@@ -374,3 +374,32 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 17: Thursday, February 25th
+
+**Today's Progress**:
+<br />
+I've been curious about jQuery lately, so I spent my morning on Youtube working through some topical videos that helped shore-up my base-knowledge of the library. Also completed a couple more LinkedIn Skills Assessments.
+
+After that, my attention naturally shifted back to React. Here's what today's focal points were:
+
+- Hooks in React! (specifically: useState, useEffect, useRef)
+- Dynamically toggling classes using state
+- Async code in useEffect
+- XSS attacks in React
+- Throttling API requests
+- Event Bubbling
+- Debouncing
+
+The project I kicked off to practice all of that^ isn't done yet, but I'm hoping to have everything working by tomorrow afternoon 🤘🏻
+
+**Thoughts:**
+<br />
+Longggg day of code today. Lots of jQuery in the morning, and then React allllll afternoon. Feeling tired, but should have this collection of widgets finished up by tomorrow.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>

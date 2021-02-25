@@ -1,5 +1,5 @@
 ---
-title: "Simple Youtube Clone"
+title: "Build a Simple Youtube Clone"
 day: "16"
 publishDate: "2021-02-24"
 thumbnailImage: "../images/day-16.png"
