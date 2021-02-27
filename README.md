@@ -437,3 +437,31 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 19: Saturday, February 27th
+
+**Today's Progress**:
+<br />
+Slowed things down a little today to give myself a bit of a breather.
+
+Spent pretty much the entire day of code refactoring my mini-Youtube Clone. I originally used the project as an excuse to refamiliarize myself with lifecycle methods + class-based components, but now I'm doing a quick rebuild to shift to using Hooks.
+
+Here's what I practiced along the way:
+
+- Refactoring from state to useState
+- Refactoring from lifecycle methods to ~useEffect
+- Building custom hooks
+- Extracting video fetching logic to a custom hook
+
+**Thoughts:**
+<br />
+Only spent a couple hours on code today rather than the 4+ I've generally been throwing at it through the week. Needed a day to recharge + reset a bit.
+
+**Link to work:**
+<br />
+Peep the updated Youtube Clone <a href="https://tcs-simple-youtube-clone-hooks.netlify.app/" target="_blank" >here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
