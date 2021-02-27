@@ -1,5 +1,5 @@
 ---
-title: "React Hooks Deep Dive"
+title: "React Hooks Deep-Dive"
 day: "17"
 publishDate: "2021-02-25"
 thumbnailImage: "../images/day-17.png"

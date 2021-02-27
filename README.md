@@ -403,3 +403,37 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 18: Friday, February 26th
+
+**Today's Progress**:
+<br />
+Worked on finishing my collection of simple React Widgets today!
+
+Here's what makes up the "collection":
+
+- An Accordion-style component for displaying content (specifically, hiding/showing)
+- A Wikipedia-powered Search app
+- A custom dropdown-style component
+- A Google Translate API-powered translator app
+
+This is what I ened up getting exposure to today:
+
+- Lots of JSX!
+- Binding event handlers
+- Filtering lists
+- Hiding and showing lists (dynamic rendering using classes)
+- Building navigation without React-Router
+
+**Thoughts:**
+<br />
+Made it through the longest lesson in my queue today (~5 hours) so that felt AWESOME. Everything else will hopefully feel like cake by comparison.
+
+**Link to work:**
+<br />
+See the live collection of widgets <a href="https://tcs-react-widget-collection.netlify.app/" target="_blank" >here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
