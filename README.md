@@ -465,3 +465,29 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 20: Sunday, February 28th
+
+**Today's Progress**:
+<br />
+Feeling really solid about my React fundamentals, so today we step it up a notch with Redux!
+
+I've used Redux for state management in a couple of my more complicated projects, but it's still felt relatively convoluted to implement, so I'm dedicated to becoming more comfortable with the fundamentals of Redux. Today I'm kicking off some deep dives, starting with gaining a more comprehensive understanding of the Redux Cycle.
+
+Here's what I worked on along the way:
+
+- Modeling with Redux
+- Building Action Creators
+- Creating Reducers
+- Rules of Reducers
+
+**Thoughts:**
+<br />
+Picked up a lot of really nuanced, helpful notes about Redux today!
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
