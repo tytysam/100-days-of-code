@@ -1,18 +1,21 @@
 ---
-title: "More Liquid!"
+title: "Async Actions with Redux Thunk!"
 day: "22"
 publishDate: "2021-03-02"
 thumbnailImage: "../images/day-22.png"
-shareText: "Deep dive into the basics of Redux."
-hashtags: ["100DaysOfCode", "Liquid", "React", "Shopify"]
-draft: true
+shareText: "Asynchronous calls with Redux"
+hashtags: ["100DaysOfCode", "Thunk", "Redux"]
+draft: false
 ---
 
-Started my Monday morning off with some learning focused on Liquid, Shopify's templating language. I was really surprised how much it had in common with Ruby!
+Keeping the Redux train rolling today! I spent my morning today doing a take-home technical interview and the afternoon learning about Asynchronous Actions with Redux Thunk!
 
-Here's are the content pillars I worked through today:
+Here are the highlights:
 
-- Tags & Filters
-- Objects (Store Data)
-- Schemas (Theme Data)
-- Limitations & Scope
+- Redux Thunk and why we need it...
+- Tricking Redux with Dummy Reducers
+- Fetching data in a Redux App
+- Making requests from an action creator
+- Understanding (deeply) async action creators
+- Middlewares in Redux
+- Shortened Syntax with Redux Thunk

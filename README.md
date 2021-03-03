@@ -530,3 +530,31 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 22: Tuesday, March 2nd
+
+**Today's Progress**:
+<br />
+
+Keeping the Redux train rolling today! I spent my morning today doing a take-home technical interview and the afternoon learning about Asynchronous Actions with Redux Thunk!
+
+Here are the highlights:
+
+- Redux Thunk and why we need it...
+- Tricking Redux with Dummy Reducers
+- Fetching data in a Redux App
+- Making requests from an action creator
+- Understanding (deeply) async action creators
+- Middlewares in Redux
+- Shortened Syntax with Redux Thunk
+
+**Thoughts:**
+<br />
+Tiredddd from my interview / skills test. So taking it slightly easier today. Long lesson lined up for tomorrow though!
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
