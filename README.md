@@ -558,3 +558,37 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 23: Wednesday, March 3rd
+
+**Today's Progress**:
+<br />
+
+Led today with some more early-morning Liquid lessons! I've built a couple (simple) Shopify storefronts in the past, but diving into the depths of customization has been a ton of fun.
+
+After that, I returned focus to my simple Redux blog project I've been building for a couple days now.
+
+Some topics from today's learning include:
+
+- Pure Reducers
+- Edge cases re: mutating a Reducer's input state argument
+- Safe State Updates in Reducers
+- Equality of Arrays and Objects
+- Switch Statements in Reducers
+- Dispatching correct values
+- Extracting logic to mapStateToProps
+- Memoizing Functions
+- Action Creators inside of Action Creators!
+
+Tomorrow we move onto React Router and maybe mess with some authentication.
+
+**Thoughts:**
+<br />
+Took my entire morning, but I made it through Stephen Grider's ~longest section of lessons. Win in my book.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
