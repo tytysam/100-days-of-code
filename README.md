@@ -592,3 +592,32 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 24: Thursday, March 4th
+
+**Today's Progress**:
+<br />
+
+Shifted game plans just a little today...
+
+I was originally planning on jumping into React Router, but a week straight of working with Redux has my brain feeling fried.. So I played around with customizing some features in a custom Shopify store!
+
+A couple things I worked on:
+
+- Custom components that can be edited from the Shopify frontend CMS
+- Working with grids and building some columned sections
+- Sticky headers!
+- Hover effects for images
+
+Tomorrow we circle back to React!
+
+**Thoughts:**
+<br />
+Full-disclosure: I had to recover after going out with some friends from my GA cohort last night, which was part of why today was slow on the code front... So very worth it to get to finally meet those folks face-to-face rather than over Zoom though! :)
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
