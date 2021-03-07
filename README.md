@@ -688,3 +688,34 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 27: Sunday, March 7th
+
+**Today's Progress**:
+<br />
+
+Happy Sunday! Today kicked-off with some reading about Redux and then I spent a little time setting up + refamiliarizing myself with Advanced Redux Dev Tools.
+
+PSA: If anyone else is trying to play around with Redux's DevTools, Airbnb has their Redux Store Data publicly available. Just go to airbnb.com, open your Redux DevTools, and start exploring!
+
+After I finished playing with those new toys, I shifted focus to Redux Forms.. Highlights are below!
+
+- Installed + connected Redux Forms
+- Customized form fields
+- Added form validation
+- Integrated error handling and visual error cues on form fields
+
+Tomorrow, we shift focus to building out the REST-based functions of this React app.
+
+**Thoughts:**
+<br />
+Really nice feeling my confidence in my code continue to build and build :)
+
+**Link to work:**
+<br />
+View the current live version <a href="https://tcs-simple-twitch-clone.netlify.app/" target="_blank">here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
