@@ -656,3 +656,35 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 26: Saturday, March 6th
+
+**Today's Progress**:
+<br />
+
+OAuth Authorization was the flavor of the day today!
+
+Did some early-morning reading about the differences between OAuth for Servers and OAuth for JS Browser Apps. After installing a basic OAuth implementation, I then integrated Redux on top.
+
+It's only the basic scaffoling + OAuth at the moment, but if you're interested, you can check out my Twitch.ty app <a href="https://tcs-simple-twitch-clone.netlify.app/" target="_blank">here</a>.
+
+A few highlights from today:
+
+- Creating OAuth credentials
+- Wiring up the Google API Library
+- Updating authorization state
+- Handling Auth Status through Redux
+- Practice with Redux Dev Tools
+
+Tomorrow, we're gonna try to tackle Redux Forms!
+
+**Thoughts:**
+<br />
+This was only my ~fourth / ~fifth time building with Redux, but I must say it has become CONSIDERABLY easier the more that I continue to work with it.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
