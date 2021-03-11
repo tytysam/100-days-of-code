@@ -3,7 +3,7 @@ title: "OAuth + React"
 day: "26"
 publishDate: "2021-03-06"
 thumbnailImage: "../images/day-26.png"
-shareText: "Day 2 of my Twitch.ty clone build."
+shareText: "Day 2 of my Twitch.TY clone build."
 hashtags: ["100DaysOfCode", "React", "Redux", "Twitch"]
 draft: false
 ---

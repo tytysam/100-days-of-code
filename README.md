@@ -719,3 +719,104 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 28: Monday, March 8th
+
+**Today's Progress**:
+<br />
+
+Week #4 of #100DaysOfCode!
+
+I spent the morning helping a friend smooth-out some CSS woes on one of his project sites. I know plenty of people who shudder at the thought of complex CSS, but honestly, CSS is one of my favorite things to get lost in — I always ending up having a blast with it, whether vanilla CSS or a framework like Bootstrap or Tailwind. Anybody else feel the same?
+
+After helping out, I shifted my attention back to my Twitch.tv clone again. Refamiliarized myself with the basic conventions of REST-ful API servers with some Medium articles, then dove into a full day of writing code.
+
+Below are some of the highlights from today:
+
+- Creating a stream via an Action Creator
+- Setting up an API server using json-server
+- Using Redux's connect function with Redux Form
+- Creating a stream with REST conventions
+- Dispatching Actions after stream creation
+- Key Interpolation Syntax
+- Handling fetching, creating, updating, merging, and deleting from inside Redux
+- Associating streams with users
+- Intentional Navigation vs Programmatic Navigation
+- Creating your own Browser History object
+- Component Isolation with React Router
+
+View the current live version <a href="https://tcs-simple-twitch-clone.netlify.app/" target="_blank">here</a>.
+
+Tomorrow, the plan is to start working on React Portals + getting some actual video streaming!
+
+**Thoughts:**
+<br />
+Really nice feeling my confidence in my code continue to build and build :)
+
+**Link to work:**
+<br />
+View the current live version <a href="https://tcs-simple-twitch-clone.netlify.app/" target="_blank">here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 29: Tuesday, March 9th
+
+**Today's Progress**:
+<br />
+
+If you've been following along so far, you have probably figured out that I absolutely love reading — books, articles, comics — any source of learning or storytelling or entertainment and I'm in.
+
+This morning was no different: Did plenty of reading about React Portals, why they're necessary given the nested structure of React components, and how to use them to get around Stacking Contexts and make some modals!
+
+After finishing up building some reusable Modals, I started working on implementing the actual streaming (!!!)
+
+Hoping to have a working, shareable MVP in the next day or two!
+
+**Thoughts:**
+<br />
+Learned my lesson from yesterday... No more 6+ hours of straight coding on Mondays lol
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 30: Wednesday, March 10th
+
+**Today's Progress**:
+<br />
+
+Lots of Computer Science-centric reading this morning! Trying to fill my CS gaps as well as I can, so spent the morning reading about a swathe of things, including:
+
+- Databases
+- Troubleshooting
+- Algorithms
+- Design Patterns
+
+Twitch.TY progress (!!!):
+
+- Real Time Messaging Protocol (RTMP) server setup
+- OBS installation and configuration
+- Streaming setup and implementation!
+
+Had a ton of fun with this project! Will likely circle back and continue building upon it eventually, but I was really just looking for an excuse to practice some ~complicated-ish Redux implementations.
+
+As a review: The app takes a stream supplied by me + Open Broadcaster Software, uses a simple Real Time Message Protocol Server to process the stream, another simple server to track the current streams broadcasting, and then the UI is a super barebones React frontend.
+
+Tomorrow, we move on to Context within React!
+
+**Thoughts:**
+<br />
+~Bombed a technical interview this morning, hence the focus on more CS learning...
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>

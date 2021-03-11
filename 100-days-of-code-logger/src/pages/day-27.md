@@ -3,7 +3,7 @@ title: "Redux Forms"
 day: "27"
 publishDate: "2021-03-07"
 thumbnailImage: "../images/day-27.png"
-shareText: "Day #3 of Twitch.ty build!"
+shareText: "Day #3 of Twitch.TY build!"
 hashtags: ["100DaysOfCode", "React", "Redux", "Twitch"]
 draft: false
 ---

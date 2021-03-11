@@ -1,9 +1,9 @@
 ---
-title: "Twitch.tv Livestream Clone"
+title: "Twitch.TY Livestream Clone"
 day: "25"
 publishDate: "2021-03-05"
 thumbnailImage: "../images/day-25.png"
-shareText: "Kickoff for Twitch Clone build."
+shareText: "Kickoff for Twitch.TY (Twitch Clone) build."
 hashtags: ["100DaysOfCode", "React", "Redux", "Twitch.tv"]
 draft: false
 ---
