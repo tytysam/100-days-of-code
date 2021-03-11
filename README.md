@@ -820,3 +820,33 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 31: Thursday, March 11th
+
+**Today's Progress**:
+<br />
+
+Shifting my daily schedule a little bit to make more room for expanding my Computer Science knowledge. Always trying to learn and grow, so if anyone has any recommendations for go-to CS content, please share!
+
+For this morning, I focused on:
+
+- Understanding closures more deeply
+- Reinforcing Object Oriented Programming concepts
+- Everything there is to know about "this" in JavaScript
+
+Next, I started deepening my code-testing knowledge by reading about + playing around with Jest.
+
+After my reading + learning, I started messing around with Context in React. Planning to build a simple language toggle in order to get some practice with Context..
+
+**Thoughts:**
+<br />
+New day, every day. Learning for the sake of learning today, knowing the rest will follow in its own time.
+
+**Link to work:**
+<br />
+See the live app <a href="https://tcs-simple-language-toggle.netlify.app/" target="_blank" >here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
