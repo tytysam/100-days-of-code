@@ -1,12 +1,14 @@
 ---
-title: ""
+title: "Practice with Context as Redux"
 day: "33"
 publishDate: "2021-03-13"
 thumbnailImage: "../images/day-33.png"
-shareText: ""
+shareText: "Snowy Saturday spent playing with React Context"
 hashtags: ["100DaysOfCode", "React", "Twitch"]
-draft: true
+draft: false
 ---
+
+Happy Snowpocalypse Saturday!
 
 Built a simple language toggle in order to get some practice with the following topics:
 

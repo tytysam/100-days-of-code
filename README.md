@@ -880,11 +880,9 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 **Today's Progress**:
 <br />
 
-XXXX
+Happy Snowpocalypse Saturday!
 
-Today's morning read included learning about CI/CD via Github Actions, discovering some advanced Git commands, and brushing up on my TypeScript knowledge.
-
-Then, I spent part of the afternoon building a simple language toggle in order to get some practice with the following topics:
+I spent my morning building a simple language toggle in order to get some practice with the following topics:
 
 - The Context System
 - Getting Data Out of Context
@@ -895,11 +893,9 @@ Then, I spent part of the afternoon building a simple language toggle in order t
 - Accessing Data with Consumers
 - Pulling from Multiple Contexts
 
-Check it out here
-ASDfASDFASDFASDF
-
 **Thoughts:**
 <br />
+Might need to take a breather sooner or later... 30+ days in, and I'm feeling the burnout just a tiny bit. Definitely just need to let off the gas and remove a daily responsibility or two for a couple days.
 
 **Link to work:**
 <br />
