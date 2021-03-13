@@ -1,20 +1,17 @@
 ---
-title: ""
+title: "Git + TypeScript Lessons"
 day: "32"
 publishDate: "2021-03-12"
 thumbnailImage: "../images/day-32.png"
-shareText: ""
+shareText: "Git, TypeScript, and Algorithms"
 hashtags: ["100DaysOfCode", "React", "Twitch"]
-draft: true
+draft: false
 ---
 
-Built a simple language toggle in order to get some practice with the following topics:
+Happy Friday!
 
-- The Context System
-- Getting Data Out of Context
-- Creating Context Objects
-- Consuming the Context Value
-- Context Providers
-- "Gotchas" Around Providers
-- Accessing Data with Consumers
-- Pulling from Multiple Contexts
+Simple day of code today! This morning's read included learning about CI/CD via Github Actions, discovering some advanced Git commands, and brushing up on my TypeScript knowledge.
+
+After that, I spent some time working through a couple algorithm challenges.
+
+Getting back to React Context tomorrow!

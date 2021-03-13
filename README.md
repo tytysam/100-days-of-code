@@ -850,3 +850,62 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 32: Friday, March 12th
+
+**Today's Progress**:
+<br />
+
+Happy Friday!
+
+Simple day of code today! This morning's read included learning about CI/CD via Github Actions, discovering some advanced Git commands, and brushing up on my TypeScript knowledge.
+
+After that, I spent some time working through a couple algorithm challenges.
+
+Getting back to React Context tomorrow!
+
+**Thoughts:**
+<br />
+You can just as easily fail at things you hate, so why NOT do the things you love?
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 33: Saturday, March 13th
+
+**Today's Progress**:
+<br />
+
+XXXX
+
+Today's morning read included learning about CI/CD via Github Actions, discovering some advanced Git commands, and brushing up on my TypeScript knowledge.
+
+Then, I spent part of the afternoon building a simple language toggle in order to get some practice with the following topics:
+
+- The Context System
+- Getting Data Out of Context
+- Creating Context Objects
+- Consuming the Context Value
+- Context Providers
+- "Gotchas" Around Providers
+- Accessing Data with Consumers
+- Pulling from Multiple Contexts
+
+Check it out here
+ASDfASDFASDFASDF
+
+**Thoughts:**
+<br />
+
+**Link to work:**
+<br />
+See the live app <a href="https://tcs-simple-language-toggle.netlify.app/" target="_blank" >here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
