@@ -905,3 +905,20 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 34: Sunday, March 14th
+
+**Today's Progress**:
+<br />
+Cozy Sunday spent reading! I kinda cheated and didn't actually write code today, but it's blizzarding outside and I'm too cozy reading. Will get back to code-heavy days tomorrow. In the meantime, I'm reading about Promises in JS, useful ES6 snippets, and new JS ES2021 features!
+
+**Thoughts:**
+<br />
+It is literally blizzarding outside today (12+ inches of snow so far at ~noon) which has made it exceedingly difficult to self-motivate... So leaning into a lighter day today. Will pick back up on Monday (or whenever we can dig out of the snow).
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
