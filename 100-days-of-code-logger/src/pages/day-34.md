@@ -8,4 +8,6 @@ hashtags: ["100DaysOfCode", "JavaScript", "ES6"]
 draft: false
 ---
 
-Cozy Sunday spent reading! I kinda cheated and didn't actually write code today, but it's blizzarding outside and I'm too cozy reading. Will get back to code-heavy days tomorrow. In the meantime, I'm reading about Promises in JS, useful ES6 snippets, and new JS ES2021 features!
+Cozy Sunday spent reading! I kinda cheated and didn't actually write code today, but it's blizzarding outside and I'm too cozy reading. Will get back to code-heavy days tomorrow.
+
+In the meantime, I'm reading about Promises in JS, useful ES6 snippets, and new JS ES2021 features!
