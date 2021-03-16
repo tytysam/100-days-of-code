@@ -16,9 +16,8 @@ After that, I read tons about:
 
 - React Component Testing using Jest and React Testing Library
 - useCallback vs useRef vs useEffect
+- TypeScript Basicsstre
 - Algorithms, algorithms, algorithms!
 - Liquid | Shopify Templating Language
 
 Finally, I spent this afternoon doing some video deep-dives on some of the topics I spent this morning reading about — ended up being super helpful as far as reinforcing what I learned this morning goes. Mainly focused on some lessons on Jest, RTL, and Liquid.
-
-That's all for today! Tomorrow we're diving into some more advanced React topics... Stay tuned!

@@ -941,11 +941,39 @@ After that, I read tons about:
 
 Finally, I spent this afternoon doing some video deep-dives on some of the topics I spent this morning reading about — ended up being super helpful as far as reinforcing what I learned this morning goes. Mainly focused on some lessons on Jest, RTL, and Liquid.
 
-That's all for today! Tomorrow we're diving into some more advanced React topics (I'm thinking )... Stay tuned!
-
 **Thoughts:**
 <br />
 CRAZY wide-ranging day today. Lots of good talks at Outcomes this morning, tons of reading, lots of videos. Lotsa learnin' in general today.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 36: Tuesday, March 16th
+
+**Today's Progress**:
+<br />
+
+Ended up having another day peppered with meetings, so I slowed down a bit on the code front and devoted my day to reading in the in-between moments.
+
+I read a couple long-form articles about various Open Source projects. After that, I did way too much reading about the best React Starter Kits, from create-react-app, to Next.js, to Gatsby.
+
+Also read about some of the best Open Source React Projects. Some highlights:
+
+- Unstated
+- React Bootstrap
+- WatermelonDB
+- React Select
+- Evergreen
+- React Spring
+- Storybook
+
+**Thoughts:**
+<br />
+Had a final round interview today and a few other calls and meetings that I wasn't expecting, so not as productive today as originally planned. So it goes.
 
 **Link to work:**
 <br />
