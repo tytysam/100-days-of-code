@@ -981,3 +981,36 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 37: Wednesday, March 17th
+
+**Today's Progress**:
+<br />
+
+I've had some React topics I've been wanting to work through for awhile now, and today ended up being as good a day as any to just dive right in!
+
+Here's what I covered across those various videos & articles:
+
+- Redux Thunk
+- Combining Redux with Firebase
+- Dynamic Forms with Redux Form
+- Logicless Components with Reselect
+- Data Loading Methods with Redux
+- Animation in React using ReactCSSTransitionGroup
+- Common Errors with React + Redux
+- BrowserHistory in Production
+- React Integration with 3rd Party Libraries
+- JSPlaygrounds for Rapid Prototyping
+
+After that, I spent a decent while playing around with Webpack configurations + my newest side project, my own custom, personal REPL... Stay tuned!
+
+**Thoughts:**
+<br />
+Tons more reading today. Also made it through quite a bit of video content + wrote some code of my own. Solid trifecta.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
