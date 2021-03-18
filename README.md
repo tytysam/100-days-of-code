@@ -1002,11 +1002,31 @@ Here's what I covered across those various videos & articles:
 - React Integration with 3rd Party Libraries
 - JSPlaygrounds for Rapid Prototyping
 
-After that, I spent a decent while playing around with Webpack configurations + my newest side project, my own custom, personal REPL... Stay tuned!
+After that, I spent a decent while playing around with Webpack configurations + my newest side project: my own custom, personal REPL... Stay tuned!
 
 **Thoughts:**
 <br />
 Tons more reading today. Also made it through quite a bit of video content + wrote some code of my own. Solid trifecta.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 38: Thursday, March 18th
+
+**Today's Progress**:
+<br />
+
+Spent a huge chunk of the day continuing to read about + mess around with Webpack. Trying to chase down a couple bugs with this JS REPL I've been trying to build and customize.
+
+After eventually hitting a wall, I helped a friend smooth some CSS issues on their portfolio site and then shifted gears to practice some algorithms! Nothing too complicated today, but worked through a couple different solutions for both string reversal and Palindromes.
+
+**Thoughts:**
+<br />
+Trying to close out the week ~strongly!
 
 **Link to work:**
 <br />
