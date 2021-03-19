@@ -1034,3 +1034,21 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 39: Friday, March 19th
+
+**Today's Progress**:
+<br />
+
+I worked through the classic FizzBuzz algo challenge in a couple different ways, then called it a day.
+
+**Thoughts:**
+<br />
+Needed a breather by the time today rolled around, so I only set aside part of my day for my #100DaysOfCodeChallenge, the rest has been devoted to personal reading, the dog park, and trying to just slow down and breathe for a moment.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
