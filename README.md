@@ -1052,3 +1052,25 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 40: Saturday, March 20th
+
+**Today's Progress**:
+<br />
+
+Started my day with some much-needed file re-organization + cleanup from 4 months of random personal projects and classwork!
+
+After that, I spent a couple hours playing around on Stephen Grider's RallyCoding.com!
+
+The rest of my day is devoted to biking around Denver, shooting some film, and enjoying the 60+ degree day before it snows more tomorrow!
+
+**Thoughts:**
+<br />
+Turns out extra motivation is hard to come by immediately after you land a job...
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
