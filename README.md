@@ -1121,3 +1121,41 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 43: Tuesday, March 23rd
+
+**Today's Progress**:
+<br />
+
+I made a little Sidebar Menu in React! It's a simple React-based component that utilizes react-pro-sidebar and react-icons in order to create a customizable, responsive sidebar library. Features dropdown menus and unlimited number of nested submenus.
+
+**Thoughts:**
+<br />
+
+Was definitely feeling the itch to build since I've been focused on reading and expanding knowledge the past few days. So I built something!
+
+**Link to work:**
+<br />
+See the live app <a href="https://tcs-simple-react-sidebar-menu.netlify.app/" target="_blank" >here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 44: Wednesday, March 24th
+
+**Today's Progress**:
+<br />
+
+**Thoughts:**
+<br />
+
+**Link to work:**
+<br />
+See the live app <a href="https://tcs-simple-react-sidebar-menu.netlify.app/" target="_blank" >here</a>.
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
