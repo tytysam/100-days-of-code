@@ -1074,3 +1074,50 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 <br />
 
 <hr>
+
+### Day 41: Sunday, March 21st
+
+**Today's Progress**:
+<br />
+
+Made a morning run to the dog park before the rain + snow hit, then spent the rest of today cozied-up inside and reading! Today's core code-centric topic was architectural patterns within software architecture!
+
+I dredged up an article or two covering each of these common patterns:
+
+- Layered Architecture
+- Pipe & Filter
+- Client Server
+- Model View Controller
+- Event Driven Architecture
+- Microservices Architecture
+
+The rest of the day was spent reading Chuck Klosterman! Happy Sunday!
+
+**Thoughts:**
+<br />
+Definitely took my foot off of the gas a fair amount these past few days, but I definitely want to continue my 100 Days of Code in some shape / form even though I landed a job!
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 42: Monday, March 22nd
+
+**Today's Progress**:
+<br />
+
+My copy of <a href="https://www.thriftbooks.com/w/design-patterns-elements-of-reusable-object-oriented-software-addison-wesley-professional-computing-series_erich-gamma/248223/item/1566518/?mkwid=%7cdc&pcrid=448918537671&pkw=&pmt=&slid=&plc=&pgrid=107461511234&ptaid=pla-926306231749&gclid=CjwKCAjwgOGCBhAlEiwA7FUXknDco9-13MabXllfmNcc5X77uY2Hd-aQPN-hJ68ezjiPK3c-HP11whoCjN0QAvD_BwE#idiq=1566518&edition=1874193" target="_blank" >Design Patterns by the Gang of Four</a> finally showed up, so today was devoted to finally diving into it! That's it, another real simple day of reading (I've kinda been showering myself with those, but we're getting back to building some stuff tomorrow).
+
+**Thoughts:**
+<br />
+New week, new journal, new job, new goals. Trying to start the week off right!
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
