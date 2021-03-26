@@ -1171,9 +1171,28 @@ You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.net
 
 **Today's Progress**:
 <br />
+Busy day outside of coding, so putting my focus toward making it through my copy of<a href="https://www.thriftbooks.com/w/design-patterns-elements-of-reusable-object-oriented-software-addison-wesley-professional-computing-series_erich-gamma/248223/item/1566518/?mkwid=%7cdc&pcrid=448918537671&pkw=&pmt=&slid=&plc=&pgrid=107461511234&ptaid=pla-926306231749&gclid=CjwKCAjwgOGCBhAlEiwA7FUXknDco9-13MabXllfmNcc5X77uY2Hd-aQPN-hJ68ezjiPK3c-HP11whoCjN0QAvD_BwE#idiq=1566518&edition=1874193" target="_blank" >Design Patterns by the Gang of Four</a> when I have moments to read. Will be back to writing code soon enough!
 
 **Thoughts:**
 <br />
+Distracted by life and other things, but SO excited to start my full-time role and code for real.
+
+**Link to work:**
+<br />
+You can check out the live Gatsby site <a href="https://tcs-100-days-of-code.netlify.app/" target="_blank">here</a>.
+<br />
+
+<hr>
+
+### Day 46: Friday, March 26th
+
+**Today's Progress**:
+<br />
+Another busy day outside of coding, so putting my focus toward making it through my <a href="https://www.thriftbooks.com/w/design-patterns-elements-of-reusable-object-oriented-software-addison-wesley-professional-computing-series_erich-gamma/248223/item/1566518/?mkwid=%7cdc&pcrid=448918537671&pkw=&pmt=&slid=&plc=&pgrid=107461511234&ptaid=pla-926306231749&gclid=CjwKCAjwgOGCBhAlEiwA7FUXknDco9-13MabXllfmNcc5X77uY2Hd-aQPN-hJ68ezjiPK3c-HP11whoCjN0QAvD_BwE#idiq=1566518&edition=1874193" target="_blank" >Design Patterns </a> book when I have moments to read. Will be back to writing code soon enough!
+
+**Thoughts:**
+<br />
+Distracted by life and other things, but SO excited to start my full-time role and code for real.
 
 **Link to work:**
 <br />
