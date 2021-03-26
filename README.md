@@ -1154,7 +1154,7 @@ Was having issues with some deprecated dependencies, so it's taken me a few days
 
 Now I'm just trying to chase down some 400-errors that pop up once I try to shift to a production environment. Esprima seems to be doing some weird things, so starting my investigation there. Planning to throw another hour at troubleshooting, and then probably calling it a day!
 
-Excited to soon have my very own little Read-Eval-Print-Loop Enviroment! Will mainly use for playing around, testing, and rapid-prototyping.
+Excited to soon have my very own little Read-Eval-Print-Loop Environment! Will mainly use for playing around, testing, and rapid-prototyping.
 
 **Thoughts:**
 <br />
